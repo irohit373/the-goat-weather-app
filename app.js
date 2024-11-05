@@ -55,7 +55,7 @@ let currentTab = userTab;
 
 const API_KEY = 'd74ec0c9ec7985e97da22f64aa6cd2dc';
 
-currentTab.classList.add('bg-sky-800', 'rounded');
+currentTab.classList.add('bg-sky-800');
 
 getfromSessionStorage();
 
